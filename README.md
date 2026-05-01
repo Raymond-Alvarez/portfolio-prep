@@ -14,7 +14,16 @@
 - [assets/background_image.png](assets/background_image.png)
 
 **Project Assets:**
-- **MindTrack Wellness:** [assets/mindtracks_image_1.png](assets/mindtracks_image_1.png), [assets/mindtracks_image_2.png](assets/mindtracks_image_2.png), [assets/mindtracks_image_3.png](assets/mindtracks_image_3.png)
-- **Salmon Cookies:** [assets/salmon_cookies_image_1.png](assets/salmon_cookies_image_1.png), [assets/salmon_cookies_image_2.png](assets/salmon_cookies_image_2.png), [assets/salmon_cookies_image_3.png](assets/salmon_cookies_image_3.png)
-- **Odd Duck:** [assets/odd_duck_image_1.png](assets/odd_duck_image_1.png), [assets/odd_duck_image_2.png](assets/odd_duck_image_2.png)
-- **Furrravorite Paws:** [assets/furrravorite_paws_image.png](assets/furrravorite_paws_image.png)
+- **MindTrack Wellness:** 
+    * [assets/mindtracks_image_1.png](assets/mindtrack_wellness_image_1.png)
+    * [assets/mindtracks_image_2.png](assets/mindtrack_wellness_image_2.png)
+    * [assets/mindtracks_image_3.png](assets/mindtrack_wellness_image_3.png)
+- **Salmon Cookies:** 
+    * [assets/salmon_cookies_image_1.png](assets/salmon_cookies_image_1.png)
+    * [assets/salmon_cookies_image_2.png](assets/salmon_cookies_image_2.png)
+    * [assets/salmon_cookies_image_3.png](assets/salmon_cookies_image_3.png)
+- **Odd Duck:** 
+    * [assets/odd_duck_image_1.png](assets/odd_duck_image_1.png)
+    * [assets/odd_duck_image_2.png](assets/odd_duck_image_2.png)
+- **Furrravorite Paws:** 
+    * [assets/furrravorite_paws_image.png](assets/furrravorite_paws_image.png)
