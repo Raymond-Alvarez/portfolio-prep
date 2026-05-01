@@ -7,14 +7,14 @@
 * **What Excites Me:** I am driven by the potential for technology to be a great equalizer and its ability to turn abstract, complex problems into tangible, accessible solutions. There is nothing more rewarding than bridging the gap between a technical challenge and a seamless, intuitive experience for the end user.
 
 ## 🖼️ Asset Inventory
-*Check the repository files to view these assets:*
+*Click the links below to view the image assets:*
 
 **Headshot & Background:**
-- `assets/headshot_image.png`
-- `assets/background_image.png`
+- [assets/headshot_image.png](assets/headshot_image.png)
+- [assets/background_image.png](assets/background_image.png)
 
 **Project Assets:**
-- **MindTrack Wellness:** `assets/mindtracks_image_1.png`, `assets/mindtracks_image_2.png`, `assets/mindtracks_image_3.png`
-- **Salmon Cookies:** `assets/salmon_cookies_image_1.png`, `assets/salmon_cookies_image_2.png`, `assets/salmon_cookies_image_3.png`
-- **Odd Duck:** `assets/odd_duck_image_1.png`, `assets/odd_duck_image_2.png`
-- **Furrravorite Paws:** `assets/furrravorite_paws_image.png`
+- **MindTrack Wellness:** [assets/mindtracks_image_1.png](assets/mindtracks_image_1.png), [assets/mindtracks_image_2.png](assets/mindtracks_image_2.png), [assets/mindtracks_image_3.png](assets/mindtracks_image_3.png)
+- **Salmon Cookies:** [assets/salmon_cookies_image_1.png](assets/salmon_cookies_image_1.png), [assets/salmon_cookies_image_2.png](assets/salmon_cookies_image_2.png), [assets/salmon_cookies_image_3.png](assets/salmon_cookies_image_3.png)
+- **Odd Duck:** [assets/odd_duck_image_1.png](assets/odd_duck_image_1.png), [assets/odd_duck_image_2.png](assets/odd_duck_image_2.png)
+- **Furrravorite Paws:** [assets/furrravorite_paws_image.png](assets/furrravorite_paws_image.png)
